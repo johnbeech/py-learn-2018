@@ -7,4 +7,4 @@ for r in range:
     results.append(random.randint(1,10*r))
 
 for r in results:
-    print(r)
+    print("Result %d" % r)
